@@ -1,0 +1,2 @@
+# Blog
+BLOG FEITO COM DJANGO ;)
