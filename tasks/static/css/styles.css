@@ -1,6 +1,5 @@
 .container-fluid {
 	padding: 0;
-
 }
 
 /*navbar */
@@ -9,6 +8,7 @@
 	border.bottom: 1px solid #333;
 	margin-bottom: 20px;
 }
+
 
 .navbar-nav {
 	margin: auto;
@@ -22,7 +22,9 @@
 	color:#333;
 	letter-spacing: 1px;
 }
-
+#add-link{
+	text-decoration: none;
+}
 .add-div{
 	background-color: #3476e2;
 	cursor: pointer;

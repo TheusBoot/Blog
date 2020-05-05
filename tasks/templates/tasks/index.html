@@ -5,6 +5,7 @@
 {% block content %}
 <div class="offset-1 col-10 list-div">
 	<h1> Lista de Tarefas</h1>
+	<a id="add-link" href="newtask/">
 	<div class="col-2 add-div">
 		<i class="fas fa-plus"></i> Adicionar tarefa 
 	</div>
@@ -14,18 +15,13 @@
 	</div>
 
 	<ul class="task-list">
+		{% for task in tasks %}
 		<li class="task-item">
-			<span>Título da tarefa</span>
+			<span><a href="/task/{{task.id}}">{{task.title}}</a></span>
 			<span> <i class="fas fa-trash"></i></span>
 			<span> <i class="fas fa-edit"></i></span>
 		</li>
-
-		<li class="task-item">
-			<span>Título da tarefa</span>
-			<span> <i class="fas fa-trash"></i></span>
-			<span> <i class="fas fa-edit"></i></span>
-		</li>
-
+		{% endfor %}
 
 	</ul>
 </div>
