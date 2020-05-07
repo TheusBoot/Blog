@@ -1,3 +1,3 @@
-![alt text](https://presleyson.com.br/wp-content/uploads/2019/02/mr-robot-1200x630-min.jpg)
+![alt text](https://dkrn4sk0rn31v.cloudfront.net/2019/09/04112944/DJANGO-PROJETOS-PYCHARM.png)
 # Blog
 BLOG FEITO COM DJANGO ;)
