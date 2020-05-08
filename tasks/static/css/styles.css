@@ -102,3 +102,12 @@ footer p{
 	top:50%;
 	position: relative;
 }
+
+
+ul.messages {
+	padding: 0;
+}
+
+ul.messages li{
+	list-style: none;
+}
