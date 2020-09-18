@@ -9,3 +9,5 @@ Entenda sobre o blog Django ;)
 
 *
 aprenda a desenvolver em django ;))
+
+veja melhor como desenvolver django :)
