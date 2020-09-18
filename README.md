@@ -6,3 +6,6 @@ BLOG FEITO COM DJANGO ;)
 ## EM DESENVOLVIMENTO ;)
 
 Entenda sobre o blog Django ;)
+
+*
+aprenda a desenvolver em django ;))
